@@ -7,3 +7,5 @@ I currently live in Hanover, New Hampshire but I'm from Dhaka, Bangladesh.
 - Ask me about creating pixel sprites and animating 3D models!
 - How to reach me: email bansharee.ireen.24@dartmouth.edu.
 - Pronouns: she/her/hers
+
+*If youre interested in checking out currently private repositories for a Sudoku Solver & Creator (created in a CS50 programming team) and a Tiny Search Engine that crawls the web to answer search queries, please reach out to me via email!*
