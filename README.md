@@ -8,4 +8,4 @@ I currently live in Hanover, New Hampshire but I'm from Dhaka, Bangladesh.
 - How to reach me: email bansharee.ireen.24@dartmouth.edu.
 - Pronouns: she/her/hers
 
-*If youre interested in checking out my currently **private** repository for **Tiny Search Engine** that crawls the web to answer search queries, please reach out to me via email!*
+*If you're interested in checking out my currently **private** repository for **Tiny Search Engine** that crawls the web to answer search queries, please reach out to me via email!*
